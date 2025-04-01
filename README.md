@@ -19,22 +19,22 @@ npm install
 [![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/IRON-M4N/MegaCDN)
 
 #### Deploy on Vercel
-1. *[Create Vercel Account](https://vercel.com/signup) If You Don't Have.*
+1. *If You Don't  have an [Account](https://vercel.com/signup), Create an account *
 2. *Deploy on Vercel.* <br>
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FIRON-M4N%2FMegaCDN&env=MEGA_ACCOUNT,PORT&envDescription=provide%20multiple%20accounts%20in%20this%20format%20email%3Apass%3Bemail%3Apass%0Afor%20port%20use%203000%20or%20any)
 
 #### Deploy To Railway
-1. *If You Don't Have Railway Account, [Create First](https://railway.com).*
+1. *If You Don't have an [Account](https://railway.com), Create an account *
 2. *Now Deploy The Repo.* <br>
 [![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/new)
 
 #### Deploy on Render
-1. *[Create Render Account](https://dashboard.render.com/register) If You Don't Have Any.*
+1. *If You Don't  have an [Account](https://dashboard.render.com/register), Create an account *
 2. *Deploy Now.* <br>
 [![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy?repo=https://github.com/IRON-M4N/MegaCDN)
 
 #### Deploy on Koyeb
-1. *[Create Account](https://app.koyeb.com/auth/signup) If You Don't Have.*
+1. *If You Don't have an [Account](https://app.koyeb.com/auth/signup), Create an account *
 2. *Now Deploy.* <br>
 [![Koyeb](https://img.shields.io/badge/Koyeb-000000?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=github.com/IRON-M4N/MegaCDN&name=MegaCDN&builder=buildpack&env[MEGA_ACCOUNT]=email:pass&env[PORT]=3000&env[TEMP]=memory )
 
